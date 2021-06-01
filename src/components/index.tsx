@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './Head'
+export * from './Footer'
+export * from './WhatWeDo'
+export * from './WhoWeAre'
